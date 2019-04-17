@@ -1,0 +1,6 @@
+c:\users\kmitchell\documents\visual studio 2017\Projects\PIToTheNth\PIToTheNth\obj\Debug\PIToTheNth.csprojResolveAssemblyReference.cache
+c:\users\kmitchell\documents\visual studio 2017\Projects\PIToTheNth\PIToTheNth\bin\Debug\PIToTheNth.exe.config
+c:\users\kmitchell\documents\visual studio 2017\Projects\PIToTheNth\PIToTheNth\bin\Debug\PIToTheNth.exe
+c:\users\kmitchell\documents\visual studio 2017\Projects\PIToTheNth\PIToTheNth\bin\Debug\PIToTheNth.pdb
+c:\users\kmitchell\documents\visual studio 2017\Projects\PIToTheNth\PIToTheNth\obj\Debug\PIToTheNth.exe
+c:\users\kmitchell\documents\visual studio 2017\Projects\PIToTheNth\PIToTheNth\obj\Debug\PIToTheNth.pdb
